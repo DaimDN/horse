@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.flex-container {
+    display: flex;
+    background-color:gray;
+    width: 100% !important;
+    margin: auto !important;
+  }
+  
+  .flex-container {
+    background-color: #f1f1f1;
+    padding: 20px;
+    font-size: 30px;
+  }
+  div{
+      width: 300px !important;
+      height: 400px;
+      margin: auto;
+      background-color: darkgreen;
+  }
